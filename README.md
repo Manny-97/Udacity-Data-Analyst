@@ -4,6 +4,8 @@
 
 ### Udacity Data Analyst Nanodegree (DAND) - Term 1 - Project 1
 
+[!Exploring Weather Temperature](https://video.udacity-data.com/topher/2017/August/59a5d44f_earth/earth.png)
+
 ### Summary
 
 In this project, you will analyze local and global temperature data and compare the temperature trends where you live to overall global temperature trends.
