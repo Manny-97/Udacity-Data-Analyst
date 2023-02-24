@@ -68,6 +68,7 @@ This chapter was a deep dive into the data wrangling part of the data analysis p
 
 In this project we had to deal with the reality of dirty and messy data (again). We gathered data from different sources (for example the Twitter API), identified issues with the dataset in terms of tidiness and quality. Afterwards we had to solve these problems while documenting each step. The end of the project was then focused on the exploration of the data.
 
+![WeRateDogs](https://github.com/Manny-97/Udacity-Data-Analyst/blob/main/data%20wrangle/dog.jpeg)
 
 
 ### P4: Communicate Data Findings
