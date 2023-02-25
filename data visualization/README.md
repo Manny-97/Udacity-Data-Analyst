@@ -2,8 +2,9 @@
 
 ## Dataset
 
-This [data set](https://www.google.com/url?q=https://s3.amazonaws.com/udacity-hosted-downloads/ud651/prosperLoanData.csv&sa=D&ust=1547699802003000)
-contains 113,937 loans with 81 variables
+This financial [dataset](https://www.google.com/url?q=https://s3.amazonaws.com/udacity-hosted-downloads/ud651/prosperLoanData.csv&sa=D&ust=1547699802003000)includes information about loans, borrowers, lenders, interest rates, and other connected topics. A company called Prosper, also known as Prosper Marketplace Inc., is located in San Francisco, California and specializes in giving borrowers loans with low interest rates. We are looking for a trend in the Prosper data in this dataset. Due to the sheer magnitude of the dataset and the complexity of all the financial datasets, this could be tedious.
+
+There are 113937 items in the dataset, which has 81 variables.
 This [data dictionary](https://docs.google.com/spreadsheets/d/1gDyi_L4UvIrLTEC6Wri5nbaMmkGmLQBk-Yx3z0XDEtI/edit?usp=sharing) explains the 
 variables in the data set.
 The project objective is not expected to explore all of the variables in the dataset! But focus on only exploration on about 24 of them.
