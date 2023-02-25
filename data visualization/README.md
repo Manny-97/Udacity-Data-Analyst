@@ -7,7 +7,7 @@ This financial [dataset](https://www.google.com/url?q=https://s3.amazonaws.com/u
 There are 113937 items in the dataset, which has 81 variables.
 This [data dictionary](https://docs.google.com/spreadsheets/d/1gDyi_L4UvIrLTEC6Wri5nbaMmkGmLQBk-Yx3z0XDEtI/edit?usp=sharing) explains the 
 variables in the data set.
-The project objective is not expected to explore all of the variables in the dataset! But focus on only exploration on about 24 of them.
+All of the dataset's factors are not anticipated to be explored as part of the project goal! But limit your research to just 24 of them.
 
 ## Summary of Findings
 
