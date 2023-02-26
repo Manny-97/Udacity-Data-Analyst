@@ -24,3 +24,11 @@ Majority of the borrowers are with a prosper score between **4 to 9**
 
 
 ## Key Insights for Presentation
+
+- Most people having a source of income were considered for loan with Majority of them earning above 25,000 USD
+- People earning above 100,000 USD had the lowest numbers of defaulters, majority of the defaulters were in the 0 - 100,000 USD bracket.
+- Majority borrowed loan due to **Debt Consolidation**, while some still defaulted.
+- People whose occupation belong to the category **Other** dominated the loan pool, followed by **Professional**
+- Most people that defaulted on the loan or were chargedoff had loan with a high _BorrowerAPR_
+- The lesser the _BorrowerAPR_ the higher the _ProsperRating_Numeric
+- BorrowerRate, BorrowerAPR, and LenderYield are all strongly correlated, implying that they might have similar effect on prediction.
