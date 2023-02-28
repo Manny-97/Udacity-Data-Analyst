@@ -30,5 +30,6 @@ Majority of the borrowers are with a prosper score between **4 to 9**
 - Majority borrowed loan due to **Debt Consolidation**, while some still defaulted.
 - People whose occupation belong to the category **Other** dominated the loan pool, followed by **Professional**
 - Most people that defaulted on the loan or were chargedoff had loan with a high _BorrowerAPR_
+- There is a positive relationship between term and rating and the loan amount
 - The lesser the _BorrowerAPR_ the higher the _ProsperRating_Numeric
 - BorrowerRate, BorrowerAPR, and LenderYield are all strongly correlated, implying that they might have similar effect on prediction.
