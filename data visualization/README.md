@@ -33,3 +33,4 @@ Majority of the borrowers are with a prosper score between **4 to 9**
 - There is a positive relationship between term and rating and the loan amount
 - The lesser the _BorrowerAPR_ the higher the _ProsperRating_Numeric
 - BorrowerRate, BorrowerAPR, and LenderYield are all strongly correlated, implying that they might have similar effect on prediction.
+- Some borrowers filled **Occupation, EmploymentStatus and ListingCategory (Numeric)** with _Other_. This categories of borrowers defaulted significantly on their loans, and also were chargedoff.
