@@ -1,5 +1,7 @@
 # [Udacity Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002)
 
+![Nanodegree Certificate](https://github.com/Manny-97/Udacity-Data-Analyst/blob/56d02b08f1b8c6dc9a7a0339d4cc7104169f7685/udacity-certificate.png)
+
 > Discover insights from data via Python and SQL.
 
 ## Skills Acquired (Summary)
